@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        //Pedimos los dos números por consola y los asignamos a sus variables.
+        //Pedimos los tres números por consola y los asignamos a sus variables.
         System.out.println("Introduzca el primer número \"A\":\n");
         Scanner sc=new Scanner(System.in);
         int numeroA=sc.nextInt();
