@@ -14,8 +14,7 @@ public class Main {
         System.out.println("Introduzca el tercer número \"C\":\n");
         int numeroC=sc.nextInt();
 
-        //Comparamos ambos números y en función de cual es el mayor, los mostramos en orden.
-
+        //Comparamos los números y en función de cual es el mayor, los mostramos en orden.
         if (numeroA>=numeroB) {
             if(numeroA>=numeroC){
                 if(numeroB>=numeroC){
