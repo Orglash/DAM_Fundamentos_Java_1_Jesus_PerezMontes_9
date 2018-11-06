@@ -36,5 +36,7 @@ public class Main {
                 System.out.printf("%d, %d, %d.\n", numeroC, numeroB, numeroA);
             }
         }
+        //Cerramos el scanner.
+        sc.close();
     }
 }
